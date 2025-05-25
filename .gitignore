@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# uv’s lock directory (if you ever vendor dependencies)
+# comment this out if you check in a vendored .venv
+# .venv-packages/
+
+# Python environment files
+Pipfile.lock
+poetry.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code workspace settings
+.vscode/
+
+# dotenv environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# macOS files
+.DS_Store
+
+# IDE-specific
+.idea/
+*.sublime-workspace
+*.sublime-project

@@ -1,2 +1,1 @@
-# LangGraph-Examples
-LangGraph template code
+Personal practice for LangGraph
