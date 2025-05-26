@@ -1,0 +1,8 @@
+Your Conversation Log:
+You: hi my name is weimeng
+AI: Hello Weimeng! How can I assist you today?
+
+You: what is my nam
+AI: You mentioned that your name is Weimeng. Is there anything else you'd like to discuss or ask?
+
+End of Conversation
