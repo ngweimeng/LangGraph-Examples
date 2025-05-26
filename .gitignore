@@ -46,3 +46,36 @@ poetry.lock
 .idea/
 *.sublime-workspace
 *.sublime-project
+
+# -------------------------------------------------------------------
+# UV virtual environment
+# -------------------------------------------------------------------
+.venv/               # UV creates this for your project’s isolated env :contentReference[oaicite:0]{index=0}
+
+# -------------------------------------------------------------------
+# Byte-compiled / cache
+# -------------------------------------------------------------------
+__pycache__/         # Python bytecode cache
+*.py[cod]            # Compiled Python files
+*$py.class           # Cython compiled files
+
+# -------------------------------------------------------------------
+# Distribution / packaging
+# -------------------------------------------------------------------
+build/               # Build output dir
+dist/                # Distribution packages
+*.egg-info/          # Egg metadata
+pip-wheel-metadata/  # pip wheel build cache
+
+# -------------------------------------------------------------------
+# Lockfile
+# -------------------------------------------------------------------
+# uv.lock should be checked into VCS for reproducible installs :contentReference[oaicite:1]{index=1}
+
+# -------------------------------------------------------------------
+# Editor / OS files
+# -------------------------------------------------------------------
+.vscode/             # VS Code settings
+.idea/               # JetBrains IDE settings
+.DS_Store            # macOS Finder metadata
+Thumbs.db            # Windows image cache
